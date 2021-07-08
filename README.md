@@ -16,4 +16,4 @@ Benefits:
 2. Coding done in powershell.
 3. Antivirus won't be able to detect or delete this custom scripts. (Reason: in Step 2, Yes. Made by powershell)
 4. Have a option to save following result in text or any format once scanning is done.
-5. Safe to test in critical environment like banking domain.
+5. Safe to run in critical environment like banking domain.
